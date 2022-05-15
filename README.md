@@ -9,4 +9,4 @@
   <li>FreezedIce/Pixel Weather Particles</li>
 </ul>
 <p>This game is owned by CtC! Studio.All right reserved.</p>
-<p>本作品之程式碼、美術及其衍生項目由廢話少說工作室版權所有，禁止修改、重新發布。</p>
+<p>本作品之程式碼、美術及其衍生項目由廢話少說工作室版權所有，僅供參考，禁止修改、重新發布。</p>
