@@ -8,5 +8,7 @@
   <li>NYKNCK/Free Pixel Art FX Package</li>
   <li>FreezedIce/Pixel Weather Particles</li>
 </ul>
+
+Introduce video: <a>https://youtu.be/vYp4alZU_B8</a>
 <p>This game is owned by CtC! Studio.All right reserved.</p>
 <p>本作品之程式碼、美術及其衍生項目由廢話少說工作室版權所有，僅供參考，禁止修改、重新發布。</p>
